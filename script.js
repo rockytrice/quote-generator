@@ -1,3 +1,4 @@
+// global var
 let apiQuotes = [];
 
 // SHOW NEW QUOTE
